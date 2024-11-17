@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew recipes
+[Homebrew](brew.sh) recipes for my projects
